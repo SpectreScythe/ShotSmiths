@@ -1,5 +1,3 @@
-# ShotSmiths ||
-
 Welcome to ShotSmits, the ultimate destination for immersive vidergraphy and photography experiences! Powered by the cutting-edge technology of React JS, our website is designed to captivate your senses and showcase the artistry behind our craft.
 
 # Getting Started with Create React App
